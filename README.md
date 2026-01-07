@@ -8,10 +8,10 @@
 ## 🛠️ Tecnologias que utilizo
 
 ### Linguagens
-![](https://skillicons.dev/icons?i=java,c,cpp,js,ts,python)
+![](https://skillicons.dev/icons?i=java,js,ts,c,cpp,python)
 
 ### Frameworks & Ferramentas
-![](https://skillicons.dev/icons?i=react,angular,spring,nodejs,docker,git,github,linux,postgres,mysql,npm,postman,latex,html)
+![](https://skillicons.dev/icons?i=react,angular,spring,html,css,docker,git,github,postgres,npm,postman,latex)
 
 
 ## 📫 Vamos nos conectar
