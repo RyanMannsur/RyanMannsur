@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Ryan Mansur
 
 🎓 Estudante no **CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais)**  
-💻 Apaixonado por **desenvolvimento web**  
-🚀 Atuando como **Full-Stack Developer** tanto no projeto **PQC (CEFET-MG)** quanto na [**dti digital**](https://www.dtidigital.com.br/) 
+💻 Desenvolvedor **Full-Stack**  
+🚀 Atuando como **Full-Stack Developer** tanto no projeto **PQC (CEFET-MG)** quanto na [**dti digital**](https://www.dtidigital.com.br/)  
 😄 Pronouns: He/Him  
 
 ## 🛠️ Tecnologias que utilizo
