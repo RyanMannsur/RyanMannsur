@@ -11,7 +11,7 @@
 ![](https://skillicons.dev/icons?i=java,js,ts,c,cpp,python)
 
 ### Frameworks & Ferramentas
-![](https://skillicons.dev/icons?i=react,angular,spring,html,css,docker,git,github,postgres,npm,postman,latex)
+![](https://skillicons.dev/icons?i=angular,spring,html,css,react,docker,git,github,postgres,npm,postman,latex)
 
 
 ## 📫 Vamos nos conectar
