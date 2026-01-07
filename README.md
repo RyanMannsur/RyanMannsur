@@ -5,8 +5,6 @@
 🚀 Atuando como **Full-Stack Developer** tanto no projeto **PQC (CEFET-MG)** quanto na [**dti digital**](https://www.dtidigital.com.br/)  
 😄 Pronouns: He/Him  
 
----
-
 ## 🛠️ Tecnologias que utilizo
 
 ### Linguagens
