@@ -13,6 +13,10 @@
 ### Frameworks & Ferramentas
 ![](https://skillicons.dev/icons?i=angular,spring,html,css,react,docker,git,github,postgres,npm,postman,latex)
 
+## 📊 GitHub Stats
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMansur&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMansur&layout=compact&theme=radical)
 
 ## 📫 Vamos nos conectar
 <a href="https://www.linkedin.com/in/ryan-mansur-83704a18a/" target="blank">
