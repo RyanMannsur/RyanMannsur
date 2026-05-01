@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=angular,spring,html,css,react,docker,git,github,postgres,npm,postman,latex)
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMannsur&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMannsur&layout=compact&theme=dracula)
 
 ## 📫 Vamos nos conectar
 <a href="https://www.linkedin.com/in/ryan-mansur-83704a18a/" target="blank">
